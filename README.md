@@ -1,5 +1,7 @@
 # Oracle-server-keep-alive-script
 
+支持Ubuntu 20.04的内存占用
+
 [![Hits](https://hits.spiritlhl.net/Oracle-server-keep-alive-script.svg?action=hit&title=Hits&title_bg=%23555555&count_bg=%2324dde1&edge_flat=false)](https://hits.spiritlhl.net)
 
 ## 甲骨文服务器保活脚本
